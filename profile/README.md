@@ -1,5 +1,6 @@
 ## Waldiez
 
+Make AI Agents Collaborate: Drag, Drop, and Orchestrate with Waldiez 
 <!--
 
 **Here are some ideas to get you started:**

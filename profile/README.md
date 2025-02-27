@@ -13,7 +13,7 @@ Waldiez is an innovative platform that enables seamless collaboration among AI a
 - **🎬 Waldiez Studio**: A FastAPI-based application that facilitates the conversion and execution of Waldiez flows, offering a user-friendly web interface for managing workflows. [Repository](https://github.com/waldiez/waldiez)
 - **🚀 Rapid Prototyping**: Accelerates the prototyping process by exporting and importing existing models, tools/skills, agents, workflows.
 - **🧠 Multi-LLM Suport**: Supports several LLMs offered by OpenAI, Anthropic, Google, NVIDIA NIM, local hosted models (Ollama) and several others.
-- **🐳 Docker Support**: Offers pre-configured Docker images for easy deployment of Waldiez components, including the core package, JupyterLab extension, and Waldiez Studio. [Check it out](https://github.com/waldiez/waldiez](https://hub.docker.com/u/waldiez)
+- **🐳 Docker Support**: Offers pre-configured Docker images for easy deployment of Waldiez components, including the core package, JupyterLab extension, and Waldiez Studio. [Check it out](https://hub.docker.com/u/waldiez)
 
 ## 📂 Repository Overview
 

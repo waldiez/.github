@@ -3,7 +3,7 @@
 Make AI Agents Collaborate: Drag, Drop, and Orchestrate with Waldiez 
 
 
-Waldiez is an innovative platform that enables seamless collaboration among AI agents through an intuitive drag-and-drop interface. It allows users to design, orchestrate, and execute complex workflows by integrating various AI models and tools effortlessly. [Learn more](https://waldiez.io/)
+Waldiez is an innovative platform that enables seamless collaboration among AI agents through an intuitive drag-and-drop interface. It allows users to design, orchestrate, and execute complex workflows by integrating various AI models and tools effortlessly. [Learn more](https://docs.waldiez.io/)
 
 ## 🔥 Key Features
 

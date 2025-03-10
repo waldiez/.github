@@ -1,4 +1,4 @@
-## ![Waldiez](https://waldiez.io/static/images/logo1.svg) Waldiez
+## ![Waldiez](https://waldiez.io/static/images/logo.svg) Waldiez
 
 Make AI Agents Collaborate: Drag, Drop, and Orchestrate with Waldiez 
 

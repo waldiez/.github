@@ -19,7 +19,7 @@ Waldiez is an innovative platform that enables seamless collaboration among AI a
 
 Waldiez hosts several projects that collectively enhance the platform's capabilities:
 
-- **🏛️ [waldiez](https://github.com/waldiez/waldiez)** - The central repository (not a classic monorepo) that includes several **submodules**, each developed independently but integrated when needed 
+- **🏛️ [waldiez](https://github.com/waldiez/waldiez)** - The central repository that includes several **submodules**, each developed independently but integrated when needed 
 - **🔬 [jupyter](https://github.com/waldiez/jupyter)** - A JupyterLab extension that integrates Waldiez into the Jupyter environment, enabling users to work with workflows directly within notebooks.
 - **🖥️ [vscode](https://github.com/waldiez/vscode)** - An extension for Visual Studio Code that allows users to design and manage Waldiez flows within the editor.
 - **🎬 [studio](https://github.com/waldiez/studio)** - A FastAPI-based application providing a web interface for converting and running Waldiez flows, enhancing user experience.

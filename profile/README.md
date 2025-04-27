@@ -19,14 +19,11 @@ Waldiez is an innovative platform that enables seamless collaboration among AI a
 
 Waldiez hosts several projects that collectively enhance the platform's capabilities:
 
-- **🏛️ [waldiez](https://github.com/waldiez/waldiez)** - The central repository that includes several **submodules**, each developed independently but integrated when needed 
+- **🏛️ [waldiez](https://github.com/waldiez/waldiez)** - The central repository that includes a React application designed to generate Waldiez flows, offering a graphical interface for workflow creation, tools and scripts to run and convert Waldiez flows into Python scripts or Jupyter notebooks, facilitating integration with Python-based projects and the documentation for the usage of waldiez. Feel free to upload examples of usage in the blogs section.
 - **🔬 [jupyter](https://github.com/waldiez/jupyter)** - A JupyterLab extension that integrates Waldiez into the Jupyter environment, enabling users to work with workflows directly within notebooks.
 - **🖥️ [vscode](https://github.com/waldiez/vscode)** - An extension for Visual Studio Code that allows users to design and manage Waldiez flows within the editor.
 - **🎬 [studio](https://github.com/waldiez/studio)** - A FastAPI-based application providing a web interface for converting and running Waldiez flows, enhancing user experience.
 - **[waldiez/runner](https://github.com/waldiez/runner)**: Responsible for queuing and running waldiez flows in isolated environments and stream logs/input/output via Redis.
-- **⚛️ [react](https://github.com/waldiez/react)** - A React application designed to generate Waldiez flows, offering a graphical interface for workflow creation.
-- **🐍 [python](https://github.com/waldiez/python)** - Tools and scripts to run and convert Waldiez flows into Python scripts or Jupyter notebooks, facilitating integration with Python-based projects.
-- **📖 [docs](https://github.com/waldiez/docs)** - Docs has the documentation for the usage of waldiez. Feel free to upload examples of usage in the blogs section.
 - **📝 [examples](https://github.com/waldiez/examples)** - Examples is a collection of exported waldiez flows.
 - **📦 [package_templates](https://github.com/waldiez/package_templates)** - Templates and guidelines for creating packages related to the Waldiez ecosystem, ensuring consistency and best practices across projects.
 

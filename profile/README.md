@@ -24,7 +24,5 @@ Waldiez hosts several projects that collectively enhance the platform's capabili
 - **🖥️ [vscode](https://github.com/waldiez/vscode)** - An extension for Visual Studio Code that allows users to design and manage Waldiez flows within the editor.
 - **🎬 [studio](https://github.com/waldiez/studio)** - A FastAPI-based application providing a web interface for converting and running Waldiez flows, enhancing user experience.
 - **🏃 [runner](https://github.com/waldiez/runner)**: Responsible for queuing and running waldiez flows in isolated environments and stream logs/input/output via Redis.
-- **📝 [examples](https://github.com/waldiez/examples)** - Examples is a collection of exported waldiez flows.
-- **📦 [package_templates](https://github.com/waldiez/package_templates)** - Templates and guidelines for creating packages related to the Waldiez ecosystem, ensuring consistency and best practices across projects.
 
 These repositories collectively contribute to the robustness and versatility of the Waldiez platform, enabling users to create, manage, and execute AI-driven workflows across different environments and applications.

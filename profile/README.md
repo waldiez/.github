@@ -8,7 +8,7 @@ Waldiez is an innovative platform that enables seamless collaboration among AG2 
 ## 🔥 Key Features
 
 - **🤖 Runs over [AG2](https://github.com/ag2ai/ag2)**: Supporting the AG2 communication patterns for building agentic workflows.
-- **🔬 JupyterLab Extension**: Integrates Waldiez functionalities directly into JupyterLab, enabling users to create, convert, and execute workflows within their notebooks. [Read more](https://waldiez.io/usage/index.html)
+- **🔬 JupyterLab Extension**: Integrates Waldiez functionalities directly into JupyterLab, enabling users to create, convert, and execute workflows within their notebooks. [Read more](https://docs.waldiez.io/usage/index.html)
 - **🖥️ Visual Studio Code Extension**: Provides a dedicated extension for Visual Studio Code, allowing users to design and manage Waldiez flows within the editor. [Download](https://marketplace.visualstudio.com/items?itemName=Waldiez.waldiez-vscode)
 - **🎬 Waldiez Studio**: A FastAPI-based application that facilitates the conversion and execution of Waldiez flows, offering a user-friendly web interface for managing workflows. [Repository](https://github.com/waldiez/waldiez)
 - **🚀 Rapid Prototyping**: Accelerates the prototyping process by exporting and importing existing models, tools/skills, agents, workflows.
